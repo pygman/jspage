@@ -1,0 +1,31 @@
+{
+  "name": "jspage",
+  "version": "0.0.1",
+  "description": "javascript page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "dependencies": {
+    "ejs": "~2.5.6",
+    "morgan": "~1.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pygman/jspage.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "page",
+    "site",
+    "php"
+  ],
+  "author": "pygman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pygman/jspage/issues"
+  },
+  "homepage": "https://github.com/pygman/jspage#readme"
+}
